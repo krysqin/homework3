@@ -17,7 +17,7 @@ body{
   background-position: center;
   background-color: #DDDDDD;
   background-image: url(../images/pigeon-background.JPEG);
-  background-repeat: repeat;
+  background-repeat: no-repeat;
 }
 
 main{
